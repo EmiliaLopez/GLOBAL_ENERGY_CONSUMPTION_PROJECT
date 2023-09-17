@@ -38,10 +38,10 @@ Ensuring data quality and predictive modelling: it is very important to ensuring
 - Linear Regression   
 - KNN Regression   
   
-**Summarize results/conclusions.   
+**Summarize results/conclusions**.   
 
 
-Technologies   
+**Technologies**   
 During the project I used Python 3.8 as programming language and the following libraries:   
 
 Pandas    
