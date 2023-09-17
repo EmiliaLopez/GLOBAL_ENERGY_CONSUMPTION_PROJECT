@@ -7,7 +7,8 @@ This dataset contains sustainable energy indicators and other useful factors in 
 ![image](https://github.com/EmiliaLopez/GLOBAL_ENERGY_CONSUMPTION_PROJECT/blob/main/Slides/mano-humana-sosteniendo-hoja-verde-que-simboliza-ambientalismo-generado-ia.jpg)
 
 
-Objectives
+## Objectives
+
 **Perform an end-to-end analysis** applying statistical or machine learning techniques and present the results.
 
 Prediciton of Primary energy consumption per person (kwh/p)
