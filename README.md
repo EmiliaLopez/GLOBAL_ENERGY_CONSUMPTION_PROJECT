@@ -23,8 +23,11 @@ Ensuring data quality and predictive modelling: it is very important to ensuring
 
 ## Workflow    
 **Data Cleaning**: Handling missing values, removing duplicates, correcting data types, renaming columns, handling inconsistencies in data.    
+
 **Data Wrangling**: Filtering rows based on conditions, sorting data, reshaping data, grouping data based on categories.    
+
 **EDA**: computing statistics, cratin visualization to explore data, exploring distribution, identifying correlations, detecting patterns and trends in data.   
+
 **K- MEANS CLustering**   
 
 **Predicting electric energy consumption per person(kwh/p)**: normalized and standardized numerical data,  splitting data into Features, train/Test Split data, transforming data for training a Linear Regression model, train and test models using normalized and standardized numerical data.   
