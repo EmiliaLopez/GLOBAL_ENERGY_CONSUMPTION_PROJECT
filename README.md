@@ -1,4 +1,4 @@
-GLOBAL ENERGY CONSUMPTION PROJECT
+***GLOBAL ENERGY CONSUMPTION PROJECT***
 **`¡Welcome back! 👋🏼`**
 
 This dataset contains sustainable energy indicators and other useful factors in all countries between 2000 and 2020. Dive into vital aspects such as electricity access, renewable energy, carbon emissions, energy intensity, financial flows and economic growth. I am excited to perform Data Cleaning, Data Wrangling, EDA and Modelling. Dataset from [Kaggle](https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy).
