@@ -13,9 +13,8 @@ This exploratory analysis contributes to enhancing our understanding of the role
 
 **Perform an end-to-end analysis** applying statistical or machine learning techniques and present the results.
 
-Prediciton of Primary energy consumption per person (kwh/p)
+**Prediciton of Primary energy consumption per person (kwh/p)**
 
-This exploratory analysis contributes to enhancing our understanding of the role of energy in global energy sustainability. It provides a clear vision of how energy access, energy consumption, and production can impact sustainability and the achievement of the Sustainable Development Goals (SDGs) outlined in the 2030 Agenda.
 
 ## Challenges
 Perform an end-to-end analysis applying statistical or machine learning techniques and present the results.
