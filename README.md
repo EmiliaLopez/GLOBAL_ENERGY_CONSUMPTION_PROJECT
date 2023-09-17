@@ -28,9 +28,9 @@ Ensuring data quality and predictive modelling: it is very important to ensuring
 
 **EDA**: computing statistics, cratin visualization to explore data, exploring distribution, identifying correlations, detecting patterns and trends in data.   
 
-**K- MEANS CLustering**   
+**K-MEANS Clustering**   
 
-**Predicting electric energy consumption per person(kwh/p)**: normalized and standardized numerical data,  splitting data into Features, train/Test Split data, transforming data for training a Linear Regression model, train and test models using normalized and standardized numerical data.   
+**Predicting electric energy consumption per person(kwh/p)**: normalized and standardized numerical data,  splitting data into Features, train/Test Split data, transforming data for training a Linear Regression model, train and test models using normalized and standardized numerical data.      
 
 **Modelling**:   
 
@@ -41,14 +41,14 @@ Ensuring data quality and predictive modelling: it is very important to ensuring
 **Summarize results/conclusions.   
 
 
-Technologies
-During the project I used Python 3.8 as programming language and the following libraries:
+Technologies   
+During the project I used Python 3.8 as programming language and the following libraries:   
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Sklearn
-SciPy
-Math
+Pandas    
+NumPy    
+Matplotlib   
+Seaborn   
+Sklearn   
+SciPy   
+Math   
  
