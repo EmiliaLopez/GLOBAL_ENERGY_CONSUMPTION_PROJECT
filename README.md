@@ -6,6 +6,8 @@ This dataset contains sustainable energy indicators and other useful factors in 
 
 ![image](https://github.com/EmiliaLopez/GLOBAL_ENERGY_CONSUMPTION_PROJECT/blob/main/Slides/mano-humana-sosteniendo-hoja-verde-que-simboliza-ambientalismo-generado-ia.jpg)
 
+This exploratory analysis contributes to enhancing our understanding of the role of energy in global energy sustainability. It provides a clear vision of how energy access, energy consumption, and production can impact sustainability and the achievement of the Sustainable Development Goals (SDGs) outlined in the 2030 Agenda.
+
 
 ## Objectives
 
